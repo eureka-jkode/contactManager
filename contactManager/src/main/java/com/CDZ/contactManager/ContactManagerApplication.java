@@ -1,4 +1,4 @@
-package com.CodeDotZero.contactManager;
+package com.CDZ.contactManager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
